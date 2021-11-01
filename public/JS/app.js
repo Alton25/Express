@@ -1,0 +1,1 @@
+alert('This is not so bad after all');
